@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adriananggarda
 - 👀 I’m interested in Backend, DevOps and SRE
-- 🌱 I’m currently learning GCP and JS (June 2022)
+- 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on Cloud Environment
 - 📫 How to reach me @adriananggarda
 
